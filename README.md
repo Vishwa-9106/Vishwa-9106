@@ -2,7 +2,7 @@
 <p align="center">AI & Data Science student | Curious mind, practical builder</p>
 
 <p align="center">
-  <a href="https://hareesh.web.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-4F46E5?style=for-the-badge" /></a>
+  <a href="https://codolio.com/profile/RBFxwwdc/"><img src="https://img.shields.io/badge/Portfolio-Visit-4F46E5?style=for-the-badge" /></a>
   <a href="https://www.linkedin.com/in/vishwa-d-026445319/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
@@ -32,7 +32,7 @@
 </p>
 
 ## LeetCode
-![LeetCode](https://leetcard.jacoblin.cool/711523bad303?theme=dark&ext=heatmap)
+![LeetCode](https://leetcard.jacoblin.cool/vishwa-9106?theme=dark&ext=heatma)
 
 ## Activity
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Vishwa-9106&bg_color=d1d4ff&color=121211&line=9e4c61&point=18f727&area=true&hide_border=true)](https://github.com/Vishwa-9106//github-readme-activity-graph)
