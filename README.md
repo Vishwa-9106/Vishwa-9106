@@ -10,7 +10,7 @@
   <a href="https://www.linkedin.com/in/vishwa-d-026445319/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:vishwadhanapal9126@gmail.com">
     <img src="https://img.shields.io/badge/Email-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
@@ -18,18 +18,14 @@
 ---
 
 ## 🌟 About Me
-<p align="center">
-  <img src="https://images.unsplash.com/photo-1581091012184-dc86c86b8aa6?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=60" alt="Data Science" width="700"/>
-</p>
-
-- 🌱 Currently Learning: **Data Science & AI**  
-- 💡 Interests: Fullstack Development, Data Analytics, Machine Learning  
-- 🌍 Based in: **India**  
-- ⚡ Fun Fact: I love turning ideas into real projects.  
+- 🌱 Currently Learning: **Data Science & AI**
+- 💡 Interests: Fullstack Development, Data Analytics
+- 🌍 Based in: **India**
+- ⚡ Fun Fact: I love turning ideas into real projects.
 
 ---
 
-## 💻 Tech Stack & Skills
+## 💻 Tech Stack
 
 <p align="center">
   <img height="40" src="https://img.icons8.com/color/48/python.png"/>
@@ -40,17 +36,6 @@
   <img height="40" src="https://img.icons8.com/color/48/mysql-logo.png"/>
   <img height="40" src="https://img.icons8.com/color/48/visual-studio-code-2019.png"/>
   <img height="40" src="https://img.icons8.com/color/48/power-bi.png"/>
-</p>
-
-### Skills Progress
-<p align="center">
-  Python      <img src="https://img.shields.io/badge/90%25-4F46E5?style=for-the-badge&logo=python&logoColor=white"/>
-</p>
-<p align="center">
-  Data Science <img src="https://img.shields.io/badge/80%25-121211?style=for-the-badge&logo=apache&logoColor=white"/>
-</p>
-<p align="center">
-  Web Dev     <img src="https://img.shields.io/badge/75%25-FF6B6B?style=for-the-badge&logo=html5&logoColor=white"/>
 </p>
 
 ---
@@ -85,13 +70,7 @@
   <a href="https://www.linkedin.com/in/vishwa-d-026445319/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:vishwadhanapal9126@gmail.com">
     <img src="https://img.shields.io/badge/Email-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://images.unsplash.com/photo-1581091012184-dc86c86b8aa6?ixlib=rb-4.0.3&auto=format&fit=crop&w=1600&q=80" alt="AI & Data Science Illustration" width="700"/>
 </p>
