@@ -1,8 +1,17 @@
-<h1 align="center">Welcome to My World — I'm Vishwa</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=3000&color=DAA520,FFD700&center=true&vCenter=true&width=700&lines=Vishwa+–+AI+%26+Data+Science+Architect" alt="Typing Animation"/>
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=AI+%26+Data+Science+Student;Passionate+About+FullStack;" alt="Typing Animation" />
+</p>
+
+---
 
 <p align="center">
-  <i>AI & Data Science Explorer • Builder of Ideas • Lifelong Learner</i>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=50&waitBeforeStart=0&color=6C63FF&center=true&vCenter=true&width=600&lines=Data-Driven;Code-Crafted." alt="Typing Animation" />
 </p>
+
+
 
 ---
 
@@ -17,10 +26,6 @@ I believe in turning raw data into meaningful stories and building tech that mak
 - On a journey to explore, learn, and share  
 
 ---
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="wave animation" width="100%" />
-</p>
 
 
 ## Coding Platforms  
@@ -37,12 +42,8 @@ I believe in turning raw data into meaningful stories and building tech that mak
   </a>
 </p>
 
----
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="wave animation" width="100%" />
 </p>
-
+---
 
 ## Tech Toolbox  
 
@@ -58,11 +59,6 @@ I believe in turning raw data into meaningful stories and building tech that mak
 
 ---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="wave animation" width="100%" />
-</p>
-
-
 ## GitHub Journey  
 
 <p align="center">
@@ -72,11 +68,6 @@ I believe in turning raw data into meaningful stories and building tech that mak
 
 ---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="wave animation" width="100%" />
-</p>
-
-
 ## Problem-Solving Streak  
 
 <p align="center">
@@ -85,11 +76,6 @@ I believe in turning raw data into meaningful stories and building tech that mak
 
 ---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="wave animation" width="100%" />
-</p>
-
-
 ## GitHub Activity  
 
 <p align="center">
@@ -97,11 +83,6 @@ I believe in turning raw data into meaningful stories and building tech that mak
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="wave animation" width="100%" />
-</p>
-
 
 ## Connect with Me  
 
