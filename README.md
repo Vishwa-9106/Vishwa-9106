@@ -99,7 +99,13 @@ I believe in turning raw data into meaningful stories and building tech that mak
 </p>
 
 ---
-
+## 🐍 GitHub Contribution Snake 
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pawaaaann/Pawaaaann/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pawaaaann/Pawaaaann/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/Pawaaaann/Pawaaaann/output/github-snake.svg" />
+  </picture>
+  
 ## Connect with Me  
 
 <p align="center">
@@ -116,6 +122,8 @@ I believe in turning raw data into meaningful stories and building tech that mak
 
 ---
 
+
+
 <p align="center">
-  <i>“Code is not just logic; it’s art written in syntax.”</i>
+  <img src="https://github.com/user-attachments/assets/8f2e941f-4014-48ff-9c37-b3567d904d7b" width="100%"/>
 </p>
