@@ -1,8 +1,9 @@
 <h1 align="center">Hi, I'm Vishwa 👋</h1>
+
 ## 🌟 About Me
 - 🎓 AI & Data Science Student | 💻 Building projects with Python, Java, and SQL  
 - 📊 Interested in Data Analytics, Machine Learning, and Full-Stack Development  
-- 🚀 Always curious to learn, experiment, and share knowledge 
+- 🚀 Always curious to learn, experiment, and share knowledge  
 
 ---
 
@@ -20,18 +21,17 @@
 
 ---
 
-
-## 💻 coding platform
+## 💻 Coding Platforms
 
 <p align="center">
   <a href="https://leetcode.com/u/vishwa-9106/">
-    <img src="https://icons8.com/icon/wDGo581Ea5Nf/leetcode" />
+    <img height="40" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png"/>
   </a>
   <a href="https://www.codechef.com/users/vishwa7468">
-    <img src="https://icons8.com/icon/O4SEeX66BY8o/codechef" />
+    <img height="40" src="https://img.icons8.com/color/48/codechef.png"/>
   </a>
   <a href="https://codeforces.com/profile/Vishwa_D">
-    <img src="https://icons8.com/icon/jldAN67IAsrW/codeforces" />
+    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeforces/codeforces-plain.svg"/>
   </a>
 </p>
 
@@ -41,7 +41,7 @@
 
 <p align="center">
   <img height="40" src="https://img.icons8.com/color/48/python.png"/>
-  <img height="40" src="https://icons8.com/icon/40669/c%2B%2B"/>
+  <img height="40" src="https://img.icons8.com/color/48/c-plus-plus-logo.png"/>
   <img height="40" src="https://img.icons8.com/color/48/java-coffee-cup-logo.png"/>
   <img height="40" src="https://img.icons8.com/color/48/html-5.png"/>
   <img height="40" src="https://img.icons8.com/color/48/css3.png"/>
