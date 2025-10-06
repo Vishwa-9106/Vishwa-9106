@@ -29,13 +29,12 @@
 
 <p align="center">
   <img height="40" src="https://img.icons8.com/color/48/python.png"/>
-  <img height="40" src="https://img.icons8.com/color/48/c++-programming.png"/>
+  <img height="40" src="https://icons8.com/icon/40669/c%2B%2B"/>
   <img height="40" src="https://img.icons8.com/color/48/java-coffee-cup-logo.png"/>
   <img height="40" src="https://img.icons8.com/color/48/html-5.png"/>
   <img height="40" src="https://img.icons8.com/color/48/css3.png"/>
   <img height="40" src="https://img.icons8.com/color/48/mysql-logo.png"/>
   <img height="40" src="https://img.icons8.com/color/48/visual-studio-code-2019.png"/>
-  <img height="40" src="https://img.icons8.com/color/48/power-bi.png"/>
 </p>
 
 ---
