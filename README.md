@@ -19,8 +19,9 @@ I believe in turning raw data into meaningful stories and building tech that mak
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/wave.svg" alt="wave animation"/>
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="wave animation" width="100%" />
 </p>
+
 
 ## Coding Platforms  
 
@@ -39,8 +40,9 @@ I believe in turning raw data into meaningful stories and building tech that mak
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/wave.svg" alt="wave animation"/>
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="wave animation" width="100%" />
 </p>
+
 
 ## Tech Toolbox  
 
@@ -57,8 +59,9 @@ I believe in turning raw data into meaningful stories and building tech that mak
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/wave.svg" alt="wave animation"/>
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="wave animation" width="100%" />
 </p>
+
 
 ## GitHub Journey  
 
@@ -70,8 +73,9 @@ I believe in turning raw data into meaningful stories and building tech that mak
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/wave.svg" alt="wave animation"/>
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="wave animation" width="100%" />
 </p>
+
 
 ## Problem-Solving Streak  
 
@@ -82,8 +86,9 @@ I believe in turning raw data into meaningful stories and building tech that mak
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/wave.svg" alt="wave animation"/>
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="wave animation" width="100%" />
 </p>
+
 
 ## GitHub Activity  
 
@@ -94,8 +99,9 @@ I believe in turning raw data into meaningful stories and building tech that mak
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/wave.svg" alt="wave animation"/>
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="wave animation" width="100%" />
 </p>
+
 
 ## Connect with Me  
 
