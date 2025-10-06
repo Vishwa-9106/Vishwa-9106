@@ -1,5 +1,9 @@
 
 <p align="center">
+  <img src="https://github.com/user-attachments/assets/7896e56f-998f-4af2-a582-274ea270857d" alt="Header" width="100%"/>
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=AI+%26+Data+Science+Student;Passionate+About+FullStack;" alt="Typing Animation" />
 </p>
 
