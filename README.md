@@ -47,18 +47,32 @@ I believe in turning raw data into meaningful stories and building tech that mak
 </p>
 ---
 
-## Tech Toolbox  
+## ⚙️ Tech Toolbox  
+###### Languages & Syntax:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)&nbsp;
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
+![Java](https://img.shields.io/badge/java-3670A0?style=for-the-badge&logo=java&logoColor=ffdd54)&nbsp;
 
-<p align="center">
-  <img height="45" src="https://img.icons8.com/color/48/python.png" alt="Python"/>
-  <img height="45" src="https://img.icons8.com/color/48/c-plus-plus-logo.png" alt="C++"/>
-  <img height="45" src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" alt="Java"/>
-  <img height="45" src="https://img.icons8.com/color/48/html-5.png" alt="HTML"/>
-  <img height="45" src="https://img.icons8.com/color/48/css3.png" alt="CSS"/>
-  <img height="45" src="https://img.icons8.com/color/48/mysql-logo.png" alt="MySQL"/>
-  <img height="45" src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="VS Code"/>
-</p>
+###### Frontend Development:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)&nbsp;
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)&nbsp;
 
+###### Backend & Frameworks:
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)&nbsp;
+
+###### Database Management:
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
+
+###### Tools & Platforms:
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
+![VS Code](https://img.shields.io/badge/VSCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)&nbsp;
 ---
 
 ## GitHub Journey  
@@ -75,6 +89,12 @@ I believe in turning raw data into meaningful stories and building tech that mak
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/vishwa-9106?theme=dark&ext=heatmap" alt="LeetCode Stats" />
 </p>
+<div align="right">
+    <h3>My Codolio</h3>
+    <picture>
+      <img align="right" alt="Card demo" src="./card.gif" width="30%">
+    </picture>
+</div>
 
 ---
 
