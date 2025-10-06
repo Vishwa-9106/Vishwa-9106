@@ -1,7 +1,10 @@
 <h1 align="center">Hi, I'm Vishwa 👋</h1>
-<p align="center">
-  AI & Data Science Enthusiast | Curious Mind | Practical Builder
-</p>
+## 🌟 About Me
+- 🎓 AI & Data Science Student | 💻 Building projects with Python, Java, and SQL  
+- 📊 Interested in Data Analytics, Machine Learning, and Full-Stack Development  
+- 🚀 Always curious to learn, experiment, and share knowledge 
+
+---
 
 <p align="center">
   <a href="https://codolio.com/profile/RBFxwwdc/">
@@ -17,11 +20,20 @@
 
 ---
 
-## 🌟 About Me
-- 🌱 Currently Learning: **Data Science & AI**
-- 💡 Interests: Fullstack Development, Data Analytics
-- 🌍 Based in: **India**
-- ⚡ Fun Fact: I love turning ideas into real projects.
+
+## 💻 coding platform
+
+<p align="center">
+  <a href="https://leetcode.com/u/vishwa-9106/">
+    <img src="https://icons8.com/icon/wDGo581Ea5Nf/leetcode" />
+  </a>
+  <a href="https://www.codechef.com/users/vishwa7468">
+    <img src="https://icons8.com/icon/O4SEeX66BY8o/codechef" />
+  </a>
+  <a href="https://codeforces.com/profile/Vishwa_D">
+    <img src="https://icons8.com/icon/jldAN67IAsrW/codeforces" />
+  </a>
+</p>
 
 ---
 
@@ -63,9 +75,6 @@
 
 ## 🚀 Connect with Me
 <p align="center">
-  <a href="https://twitter.com/yourhandle">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
   <a href="https://www.linkedin.com/in/vishwa-d-026445319/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
