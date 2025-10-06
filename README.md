@@ -45,6 +45,7 @@ I believe in turning raw data into meaningful stories and building tech that mak
 </p>
 
 </p>
+
 ---
 
 ## ⚙️ Tech Toolbox  
@@ -81,20 +82,13 @@ I believe in turning raw data into meaningful stories and building tech that mak
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=Vishwa-9106&show_icons=true&theme=tokyonight&count_private=true" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishwa-9106&layout=compact&theme=tokyonight" />
 </p>
-
 ---
 
-## Problem-Solving Streak  
-
+## 🧠 Problem-Solving Streak  
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/vishwa-9106?theme=dark&ext=heatmap" alt="LeetCode Stats" />
+  <img height="400"  src="https://leetcard.jacoblin.cool/vishwa-9106?theme=dark&ext=heatmap" alt="LeetCode Stats" />
+  <img width="200" height="400" style="margin-right: 40px;" src="https://github.com/user-attachments/assets/ad74f70d-ddbd-4311-a76c-ea9826da1ca5" alt="Profile Related" />
 </p>
-<div align="right">
-    <h3>My Codolio</h3>
-    <picture>
-      <img align="right" alt="Card demo" src="./card.gif" width="30%">
-    </picture>
-</div>
 
 ---
 
