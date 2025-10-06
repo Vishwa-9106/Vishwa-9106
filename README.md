@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=3000&color=DAA520,FFD700&center=true&vCenter=true&width=700&lines=Vishwa+–+AI+%26+Data+Science+Architect" alt="Typing Animation"/>
-</p>
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=AI+%26+Data+Science+Student;Passionate+About+FullStack;" alt="Typing Animation" />
 </p>
